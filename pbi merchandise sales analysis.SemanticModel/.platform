@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "pbi merchandise sales analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bed1f0b2-ae9f-43f4-9b87-b78e26bedb90"
+  }
+}
